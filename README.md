@@ -1,1 +1,1 @@
-Various DevExpress Items used manually.
+Various DevExpress Items have been used manually.
