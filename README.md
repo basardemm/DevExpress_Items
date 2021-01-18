@@ -1,1 +1,1 @@
-# DevExpress_Items
+Various DevExpress Items used manually.
